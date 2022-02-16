@@ -52,5 +52,6 @@ public class ZooTester {
         System.out.println(animal.eat("Yummy food"));
         System.out.println(animal.doSomething());
         System.out.println(animal.sleep());
+        System.out.println();
     }
 }
